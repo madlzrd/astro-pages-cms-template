@@ -12,7 +12,7 @@ content:
         type: string
       - name: description
         label: Description
-        type: text
+        type: rich-text
       - name: pubDate
         label: Publication Date
         type: date
