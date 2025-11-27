@@ -12,3 +12,7 @@ updatedDate: 11/27/2025
 The rain falls _down slowly_ **upon** my head.
 
 But I cannot see
+
+\[dfg\]
+
+[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQitW\_6oF7wsGITOXWDmopeYDZ4uQnV-v730EHUM0V9mBVqdkh5DH8XDRStLntrhhC9H5NveroRhYHGoOvRY-Rt9y3I1ZGvnN1zU00XQ&s=10](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQitW_6oF7wsGITOXWDmopeYDZ4uQnV-v730EHUM0V9mBVqdkh5DH8XDRStLntrhhC9H5NveroRhYHGoOvRY-Rt9y3I1ZGvnN1zU00XQ&s=10))
