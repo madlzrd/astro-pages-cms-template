@@ -1,7 +1,7 @@
 content:
-  - name: blog
-    label: Blog
-    path: src/content/blog
+  - name: articles
+    label: Articles
+    path: src/content/articles
     filename: '{year}-{month}-{day}-{fields.title}.md'
     type: collection
     view:
