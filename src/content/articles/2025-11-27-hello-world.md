@@ -4,6 +4,7 @@ description: "> The rain in spain falls mainly on the plain"
 pubDate: 11/27/2025
 updatedDate: 11/27/2025
 heroImage: /media/Prototyper le futur bleue.jpg
+live: true
 ---
 1.  Hello 1234
 

@@ -5,7 +5,7 @@ content:
     filename: '{year}-{month}-{day}-{fields.title}.md'
     type: collection
     view:
-      fields: [heroImage, title, pubDate]
+      fields: [heroImage, title, pubDate, live]
     fields:
       - name: title
         label: Title
@@ -29,6 +29,9 @@ content:
       - name: body
         label: Body
         type: rich-text
+      - name: live
+        label: Live
+        type: boolean
 
   - name: site-settings
     label: Site Settings
